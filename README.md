@@ -15,7 +15,7 @@ I have patched the `clinit` (static constructor) in `com.samsung.android.support
 * Prevented the crash during `downloadTemplateImage` and `onActivityResult` flows.
 
 ## 🚀 How to Install
-1.  Download the APK from the [Releases](#) section.
+1.  Download the APK from the [Releases](https://github.com/Egor-Urban/SamsungNotes-universal/releases/tag/4.4.37.35m) section.
 2.  Uninstall any previous versions of Samsung Notes.
 3.  Install the patched APK.
 4.  (Optional) If you want to sync with Samsung Cloud, you may need a separate "Samsung Checkout" or "Samsung Account" stub/app depending on your ROM.
